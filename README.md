@@ -6,3 +6,4 @@ You may already be familiar with decimal, or base 10 values, which go from 0 - 9
 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
 
 
+With hex colors, 00 is 0% of that color, and FF is 100%
