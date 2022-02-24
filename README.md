@@ -36,3 +36,6 @@ h1 {
 .blue {
   background-color: rgb(0, 0, 0);
 }
+.container {
+  background-color: rgb(255, 255, 255);
+  padding: 10px 0;
