@@ -10,3 +10,6 @@ With hex colors, 00 is 0% of that color, and FF is 100%
 So #00FF00 translates to 0% red, 100% green, and 0% blue, 
  is the same as rgb(0, 255, 0)
 Lower the intensity of green by setting green value of the hex color to 7F.
+.green {
+  background-color: #00FF00;
+}
